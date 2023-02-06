@@ -1,5 +1,4 @@
 # GIFos
-Acamica's 2nd sprint project for the Full Stack Web Developer course - GIFos.
 
 ## About the proyect
 
